@@ -1,0 +1,83 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+	.login-form
+				{
+					float:center;
+					
+
+					padding:40px;
+					text-align:center;
+					border:0.5px solid #ececec;
+				}
+								@import url(http://fonts.googleapis.com/css?family=Pinyon+Script);
+.quote
+{
+	color:#fff;
+	font-family: 'Pinyon Script', cursive;
+}
+
+.login-form button,.login-form button:focus
+{
+	background:#F89406;
+	border-radius:20px;
+	border:1px solid #F89406;
+	color:#fff;
+	width:100%;
+	text-align: center;
+	padding:10px;
+
+
+}
+.login-form input[type="text"],.login-form input[type="password"]
+{
+
+	padding:20px;
+	border:1px solid #fff;
+	border-radius:20px;
+	width:60%;
+}
+.spl-btn
+{
+	text-decoration: none;
+	color:#111;
+	background: #fff;
+	padding:40px;
+	font-family: Pinyon Script;
+}
+.spl-btn:hover
+{
+	font-family: Pinyon Script;
+	text-decoration: none;
+	color:blue;
+	background: #fff;
+	padding:40px;
+}
+.l
+{
+	border-bottom: 1px solid #111;
+
+}
+
+.navbar,.nav {background:#fff;}
+.search-bar
+{
+	
+	border-radius:10px;
+	border:1px solid grey;
+	
+}
+.search-bar:hover
+{
+	border:1px solid black;
+	
+}
+.welcome
+{
+background:#4183D7;
+color:#fff;
+}
+h1
+{
+text-align:center;
+color:green;
+font-family:Roboto;
+}
